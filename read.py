@@ -1,6 +1,5 @@
 ONLINE_DOWNLOAD_SOURCES = [
     # 直接下载ZIP格式（优先）
-    "https://test.com/{appid}.zip",
     "https://furcate.eu/FILES/{appid}.zip",
     "https://steamdatabase.s3.eu-north-1.amazonaws.com/{appid}.zip",
 
