@@ -4,7 +4,7 @@ ONLINE_DOWNLOAD_SOURCES = [
     "https://assiw.cngames.site/qindan/{appid}.zip",
     "https://steamdatabase.s3.eu-north-1.amazonaws.com/{appid}.zip",
     "https://cysaw.top/uploads/{appid}.zip",
-    "https://api.printedwaste.com/gfk/download/{app_id}.zip",
+    "https://api.printedwaste.com/gfk/download/{appid}.zip",
     # GitHub仓库路径（使用CDN代理）
     {"githubcangku": {
         "ManifestHub": "SteamAutoCracks/ManifestHub"   ,
